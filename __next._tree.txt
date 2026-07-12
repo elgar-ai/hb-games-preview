@@ -1,0 +1,6 @@
+:HL["/hb-games-preview/_next/static/chunks/4388qjdnbmb_8.css","style"]
+:HL["/hb-games-preview/_next/static/media/07454f8ad8aaac57-s.p.2kjei9psvcorz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hb-games-preview/_next/static/media/7f11d98043fdedc9-s.p.2c8-7nzo1jf9r.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hb-games-preview/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hb-games-preview/_next/static/media/9c72aa0f40e4eef8-s.p.1y4-pdgsjb-pw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"-4U5d2TR-fqSESC3xTKIL"}
