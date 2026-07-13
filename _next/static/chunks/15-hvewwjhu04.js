@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,22428,o=>{"use strict";let t=null;o.s(["scrollToSection",0,function(o){t?t.scrollTo(`#${o}`,{duration:1.4,offset:0}):"u">typeof document&&document.getElementById(o)?.scrollIntoView({behavior:"smooth"})},"setLenis",0,function(o){t=o}])}]);
